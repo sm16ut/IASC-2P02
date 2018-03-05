@@ -1,4 +1,4 @@
-# I don't read latin: a placeholder title
+# Taken & Given
 
 Drucker’s article touches upon tools that the digital humanities have adopted to help visualize their work. We are also introduced to data and capta, two terms that share base similarities in that they are both tools of receiving information. User R_BAIG touches on the subject and does great job of explaining differences between data and capta. "data is supposed to be a sort of “given.” For example, somebody runs a mile and you time them with a stop-watch, and once they finish, you measured their time as 4 minutes and 14 seconds, that data is given to you. On the other hand, capta is “taken” actively.  To me, I would classify “capta” as what is used in the process of creating a visual representation of such thing, using data to aid in the creation." (R_Baig).
 Data vs Capta was new to me, and I agreed that a given can be also set on a personal ideology as the taken has a fine line of being a little more unbiased. Therefore, I choose to use the following voyant-tools. The first one being a Cirrus, this tool would give me a re-occurring words in the article. The purpose of this tool is to give the reader a better understanding of the core topic of Drucker’s work. This tool could be classified as capta since I am directly taking these visual representations by a program from the source. From the many words that were given I decided to choose a select few that I thought represented Duckers work better for me. This is an example of data due to the visualization being generated from a given instead of a taken. 
@@ -28,9 +28,5 @@ Ducker, J (2011). Humanities Approaches to Graphical Display. Literary and Lingu
 
 R_BAIG. (2015). “Data” vs. “Capta”. 2018 INTRODUCTION TO DIGITAL HUMANITIES. University of The Pacific. 
 
-
-[3d viz] (d3/index.html)
-
 <iframe style="width: 1024px; height:768 px;" src="http://sm16ut.github.io/IASC-2P02/d3index.html"></iframe>
 
-![](images/download.png)
