@@ -1,6 +1,6 @@
 # IASC 2P02 | Santiago Montoya 
 
-## About Me
+## About Me.
 
 Welcome! My name is Santiago Montoya, I am student in the Interactive Arts & Sciences at Brock University. In the following blog post I will discuss 'Humanities Approaches to Graphical Display' by Johanna Ducker.
 
