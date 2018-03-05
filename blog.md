@@ -19,6 +19,8 @@ Both Ducker and Ramsay agree on that text and data can be misguided by alternati
 
 (Figure 1) One of the points Ducker makes in her work is that in the changing forms of knowledge and representations of knowledge we must focus on adapting to it appropriately. The following Cirrus us a visual representation on the key elements Ducker’s work will be focusing on. Some words that stand out and should be considered are: Graphical, Information, Knowledge, Display, Data, Humanistic, and Time. The following words. The following words give the viewer a solid sense in what one could expect the main topic to be when reading the Ducker’s article. This visualization was taken directly from her article which it then chooses the most re-occurring words and post them, either making them bolder and bigger depending on their frequency. This could also be a visual representation of capta since this was directly taken from duckers work. 
 
+![trends](https://user-images.githubusercontent.com/35467248/36999335-c87c8282-208d-11e8-8110-6495ef68524c.png)
+
 (Figure 2) The final figure shows five select words that I decided represented Ducker’s work more accurately to me personally. Although there could be many factors on what influenced me to choose the following words there are a few that I know of. The amount spent reading a certain portion of text could have stuck with me better than a different portion. In class discussions could have helped some words stick in my head better than others. This visual representation is an example of data since I directly gave it the information to display. If a different student that had read the article chose five words the output would have been very different.  
 
 
