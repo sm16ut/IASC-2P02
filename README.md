@@ -2,7 +2,7 @@
 
 ## About me
 
-My bio goes here.
+Welcome! My name is Santiago Montoya, I am student in the Interactive Arts & Sciences at brock University. In the following blog post I will discuss .....
 
 ![](Images/tux.jpg)
 
