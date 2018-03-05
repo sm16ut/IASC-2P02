@@ -24,7 +24,7 @@ Both Ducker and Ramsay agree on that text and data can be misguided by alternati
 (Figure 2) The final figure shows five select words that I decided represented Ducker’s work more accurately to me personally. Although there could be many factors on what influenced me to choose the following words there are a few that I know of. The amount spent reading a certain portion of text could have stuck with me better than a different portion. In class discussions could have helped some words stick in my head better than others. This visual representation is an example of data since I directly gave it the information to display. If a different student that had read the article chose five words the output would have been very different.  
 
 
-###Citations
+### Citations
 
 Ramsay, S. (2012). Reading machines: toward an algorithmic criticism. Urbana, IL: University of Illinois Press. 
 
