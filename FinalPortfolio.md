@@ -28,14 +28,18 @@ The portion of the presentation I got assigned did not require too much of my te
 
 ![](Images/videotut.png)
 Here is an image of the video tutorial I created. As one can see it shows all Zoteros interface as well as how to find certain citations or bookmarks you have made.
+### Commits
+
+[Image #1](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/be5bed75e12f38e92dd72b17980db1abc82240db)
+[Image #2](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/da4dc9d8df1abb16d459883d4a367025dd32ddca)
 
 
 
 
 ## Research Presentation
 
-[Title goes here](https://iascatbrock.github.io/IASC-2P02/reveal/index.html)
+[Team Presentiation](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/tree/Team5)
 
 ## Academic Blog
 
-[Title goes here](blog)
+[Santiagos Blog Post](https://github.com/sm16ut/IASC-2P02/blob/master/blog.md)
