@@ -1,6 +1,8 @@
 
 # IASC 2P02 | Santiago Montoya 
 
+![](Images/flag.png)
+
 ## Bio
 
 I am a second-year student currently enrolled in the Interactive Arts and Science program at brock University. During my time attending in the 2P02 course I found that the research areas that I decided to work with are open access publishing and data visualization. The data visualization research area is directly reflected in my blog post where I decided to use voyant tools to create a visual representation of words that are consistently used giving the reader an idea of what the Duckers work will be focusing on.  For the group project my team and I decided to work with Zotero a free open-source reference manager. For my portion on the project I got the chance to create a short video and images to give a small tutorial on how to use the program, this directly reflects open access publishing as well as data visualization. I am always learning of new open access software’s and websites, which is why I wish to keep working with them for maybe one day I can direct my peers to helpful tools for a specific academic utility. Representing data visually has always interested me due to there being no boundaries on how this could be accomplished, I hope to find new and creative ways of representing data outputs in my future work. 
@@ -16,9 +18,6 @@ Looking back at this project it research and finding are as concrete as they wer
 I also decided to add a few extra sentences to make my post more argumentative as well as giving it a more solid foundation on the topic of data and capta. The changes can be seen in the following commit. [here](https://github.com/sm16ut/IASC-2P02/commit/57baf2e1a96cba37514697d9b7e5879c9055b70a)
 Finally for my last modification I decided that my blog post could benefit with an extra paragraph outlining the benefits of understanding what the information you are giving or taking in is being used for as well as being able to differentiate an unbiased survey from a biased one.  The changes can be seen in the following commit posted [here](https://github.com/sm16ut/IASC-2P02/commit/97facec35930a2ef7526b3eaa57a8f4753aa18fb)
 Revisiting this project gave me new ideas on how I might been able to display this data in none traditional ways, I look forwards on being able to visually display this type of data in future projects. 
-
-
-Read [Collaborative Project]()
 
 ## Collaborative Project
 
