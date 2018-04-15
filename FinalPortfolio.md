@@ -8,7 +8,7 @@ I am a second-year student currently enrolled in the Interactive Arts and Scienc
 
 ## Featured Project: [Blog Post]
 
-![](images/graphic.png)
+![](Images/graphic.png)
 
 For my featured project I decided to showcase and rework/improve on my blog post assignment. The following blog post project touches on Drucker and Ramsays work touching on data and capta, their differences, and then followed by two visual representations of these terms using voyant-tools.  I argued that in my blog post that as an individual living a technological society being familiar with these terms can greatly benefit the modern person do get an idea of what the purpose of this information will be used for and if there is an already biased decision being made for you without your knowledge. The reason I decided to showcase this project was its direct relation to one of my research areas of interest ‘data visualization’. I chose to use the voyant-tools to show the meaning of capta and explain how an individuals’ ideologies can influence a different combination of words differ to my chosen combination. To represent data, I used a Cirrus which chose re-occurring words in Duckers work then bolded and expanded the more common words in the text. This already given makes it data since the user/viewer can’t do anything to directly influence the outcome of the information being given. 
 
@@ -26,7 +26,10 @@ While working on the assigned group project, me and my team decided to do our pr
 
 The portion of the presentation I got assigned did not require too much of my team members attention. From the first date that we got the assignment I made sure to communicate to my group my idea for a tutorial utilizing images and video. My group and I discussed possible ways of delivering this task and we decided I would use a live voice over a prerecorded and images showing helpful tools to note in the Zotero app. Between the date that this presentation was assigned and the date that it was due, I had to communicate with my group briefly via Facebook group chat. There we would discuss who needed assistance, if there was any portion that needed being done to complete another, and decisions on the overall structure of the final presentation. I believe the method decided for showcasing the Zotero application was more than adequate, doing a real-time voice over gave me the advantage on focusing on what my team and I agreed was important information to share. Once every group member had finished their assigned portion of the presentation, we all decided on meeting up to put our parts together. In this time, we we’re all able to express our opinions on each other’s work and make changes if needed. Overall, I think this group project went well with every team member fulfilling their task and collaborating on creating a final presentation we could all be proud of. 
 
-![](images/videotut.png)
+![](Images/videotut.png)
+Here is an image of the video tutorial I created. As one can see it shows all Zoteros interface as well as how to find certain citations or bookmarks you have made.
+
+
 
 
 ## Research Presentation
