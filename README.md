@@ -22,16 +22,16 @@ Revisiting this project gave me new ideas on how I might been able to display th
 
 ## Collaborative Project
 
-While working on the assigned group project, my team and I decided to do our presentation on the free open-source reference manager ‘Zotero’. I got given the task on creating a tutorial for people interested in the application by using a collection of images as well a video that I voiced over during the presentation. Zotero having so many utilities made it difficult for me to give a comprehensive tutorial in less than 5 minutes, due to this I decided to focus and explain on Zoteros focus and keep it short and comprehensive.  
+While working on the assigned group project, my team and I decided to do our presentation on the free open-source reference manager ‘Zotero’. I got given the task on creating a tutorial for people interested in the application by using a collection of images(see image Commits below) as well a video(Image Below) that I voiced over during the presentation. Zotero having so many utilities made it difficult for me to give a comprehensive tutorial in less than 5 minutes, due to this I decided to focus and explain on Zoteros focus and keep it short and comprehensive.  
 
 The portion of the presentation I got assigned did not require too much of my team members attention. From the first date that we got the assignment I made sure to communicate to my group my idea for a tutorial utilizing images and video. My group and I discussed possible ways of delivering this task and we decided I would use a live voice over a prerecorded and images showing helpful tools to note in the Zotero app. Between the date that this presentation was assigned and the date that it was due, I had to communicate with my group briefly via Facebook group chat. There we would discuss who needed assistance, if there was any portion that needed being done to complete another, and decisions on the overall structure of the final presentation. I believe the method decided for showcasing the Zotero application was more than adequate, doing a real-time voice over gave me the advantage on focusing on what my team and I agreed was important information to share. Once every group member had finished their assigned portion of the presentation, we all decided on meeting up to put our parts together. In this time, we we’re all able to express our opinions on each other’s work and make changes if needed. Overall, I think this group project went well with every team member fulfilling their task and collaborating on creating a final presentation we could all be proud of. 
 
-![](Images/videotut.png)
+![](Images/videotut1.png)
 Here is an image of the video tutorial I created. As one can see it shows all Zoteros interface as well as how to find certain citations or bookmarks you have made.
-### Commits
+### Collaborative Project Commits
 
-[Image #1](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/be5bed75e12f38e92dd72b17980db1abc82240db)
-[Image #2](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/da4dc9d8df1abb16d459883d4a367025dd32ddca)
+-[Image #1](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/be5bed75e12f38e92dd72b17980db1abc82240db)
+-[Image #2](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/da4dc9d8df1abb16d459883d4a367025dd32ddca)
 
 
 
