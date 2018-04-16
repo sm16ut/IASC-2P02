@@ -1,8 +1,8 @@
 
 # IASC 2P02 | Santiago Montoya 
-
+<p align="center">
 ![](Images/flag.png)
-
+</p>
 ## Bio
 
 I am a second-year student currently enrolled in the Interactive Arts and Science program at Brock University. During my time attending in the 2P02 course I found that the research areas that interested me were open access publishing and data visualization. The data visualization research area is directly reflected in my blog post where I decided to use voyant tools to create a visual representation of words that are consistently used giving the reader an idea of what the Duckers work will be focusing on. For the group project my team and I decided to work with Zotero a free open-source reference manager that makes a great addition as an academic tool for any student trying to keep their work and citations organized. For my portion on the group project I got the chance to gather some images and create a short video to give a small tutorial on how to use the program, this directly reflects open access publishing as well as data visualization. I am always learning of new open access software’s and websites, which is why I wish to keep working with them to hone my skills with certain programs as well as directing my peers to helpful tools for a specific academic utility. Representing data visually has always interested me due to there being no boundaries on how data can be translated visually, I hope to find new and creative ways of representing data outputs in my future work. 
