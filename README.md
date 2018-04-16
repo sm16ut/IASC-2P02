@@ -1,7 +1,7 @@
 
 # IASC 2P02 | Santiago Montoya 
 
-![]<center>(Images/flag.png)</center>
+<center>![](Images/flag.png)</center>
 
 ## Bio
 
